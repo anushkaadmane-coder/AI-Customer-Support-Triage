@@ -1,0 +1,341 @@
+ticket_id,ticket_text,category,urgency,resolution
+TKT-0168,I cannot log into my account. I need immediate emergency assistance.,Account,Critical,Account support
+TKT-0231,I want to delete my account. this is affecting my work.,Account,High,Account support
+TKT-0026,I have a question about a transaction. this has been happening for a while.,Billing,Medium,Billing support
+TKT-0064,I have a question about my refund. this is an emergency.,Billing,Critical,Billing support
+TKT-0010,I need help with my invoice. I would appreciate help soon.,Billing,Medium,Billing support
+TKT-0111,The website stopped responding. I need immediate assistance.,Technical,High,Technical support
+TKT-0187,I need help resetting my password. I urgently need help.,Account,High,Account support
+TKT-0144,The upload function is not working. my account may be compromised.,Technical,Critical,Technical support
+TKT-0245,I want information about the premium plan. there is no rush.,Product,Low,Product support
+TKT-0225,I need help recovering my account. when you have time.,Account,Low,Account support
+TKT-0091,The application keeps crashing. please prioritize this issue.,Technical,High,Technical support
+TKT-0077,I need support with my subscription charges. when you have time.,Billing,Low,Billing support
+TKT-0083,The application is not working correctly. I need this resolved as soon as possible.,Technical,High,Technical support
+TKT-0241,How does this product feature work. at your convenience.,Product,Low,Product support
+TKT-0173,My account has been locked. this is not urgent.,Account,Low,Account support
+TKT-0120,I cannot access a particular feature. I need immediate emergency assistance.,Technical,Critical,Technical support
+TKT-0203,I want to update my personal information. this is affecting my work.,Account,High,Account support
+TKT-0078,I need support with my subscription charges. I would appreciate help soon.,Billing,Medium,Billing support
+TKT-0056,My invoice contains an incorrect amount. there are unauthorized transactions.,Billing,Critical,Billing support
+TKT-0105,I am receiving an error message. I can wait.,Technical,Low,Technical support
+TKT-0204,I want to update my personal information. the entire service is unavailable.,Account,Critical,Account support
+TKT-0212,My account access has been restricted. the entire service is unavailable.,Account,Critical,Account support
+TKT-0199,I need help with account access. please prioritize this issue.,Account,High,Account support
+TKT-0140,A technical error is preventing me from continuing. this is a critical issue.,Technical,Critical,Technical support
+TKT-0043,I want to understand a charge on my account. I need immediate assistance.,Billing,High,Billing support
+TKT-0214,I need assistance with my login. this has been happening for a while.,Account,Medium,Account support
+TKT-0298,I need help choosing a plan. I would like this resolved soon.,Product,Medium,Product support
+TKT-0034,My subscription payment needs to be checked. I would like this resolved soon.,Billing,Medium,Billing support
+TKT-0074,There is a problem with my billing information. I would like this resolved soon.,Billing,Medium,Billing support
+TKT-0184,I cannot access my account. this is an emergency.,Account,Critical,Account support
+TKT-0076,There is a problem with my billing information. this is a critical issue.,Billing,Critical,Billing support
+TKT-0006,I was charged for my subscription. this has been happening for a while.,Billing,Medium,Billing support
+TKT-0169,I need to change my email address. I can wait.,Account,Low,Account support
+TKT-0158,The service is not functioning properly. I would like this resolved soon.,Technical,Medium,Technical support
+TKT-0301,Can I upgrade my current plan. whenever possible.,Product,Low,Product support
+TKT-0079,I need support with my subscription charges. please prioritize this issue.,Billing,High,Billing support
+TKT-0177,I want to update my profile. whenever possible.,Account,Low,Account support
+TKT-0285,Can you explain this product feature. when you have time.,Product,Low,Product support
+TKT-0223,I am having trouble signing into my account. I cannot continue using the service.,Account,High,Account support
+TKT-0085,The website is showing an error. there is no rush.,Technical,Low,Technical support
+TKT-0008,I was charged for my subscription. my account may be compromised.,Billing,Critical,Billing support
+TKT-0194,My login is not working. please look into this.,Account,Medium,Account support
+TKT-0286,Can you explain this product feature. this has been happening for a while.,Product,Medium,Product support
+TKT-0282,Is this feature available on my subscription. I would appreciate help soon.,Product,Medium,Product support
+TKT-0047,I need help with my payment method. this is affecting my work.,Billing,High,Billing support
+TKT-0004,I have a question about my subscription payment. this is a critical issue.,Billing,Critical,Billing support
+TKT-0261,Can I use this feature with my current plan. I can wait.,Product,Low,Product support
+TKT-0195,My login is not working. this is affecting my work.,Account,High,Account support
+TKT-0227,I need help recovering my account. I cannot continue using the service.,Account,High,Account support
+TKT-0178,I want to update my profile. I need help with this issue.,Account,Medium,Account support
+TKT-0058,I need assistance with a recent transaction. I need help with this issue.,Billing,Medium,Billing support
+TKT-0095,I cannot upload a file. I cannot continue using the service.,Technical,High,Technical support
+TKT-0290,I want to compare the available plans. I need help with this issue.,Product,Medium,Product support
+TKT-0046,I need help with my payment method. this has been happening for a while.,Billing,Medium,Billing support
+TKT-0018,I need information about my billing. I would appreciate help soon.,Billing,Medium,Billing support
+TKT-0186,I need help resetting my password. I would like this resolved soon.,Account,Medium,Account support
+TKT-0269,What features are included in my plan. this is not urgent.,Product,Low,Product support
+TKT-0061,I have a question about my refund. I can wait.,Billing,Low,Billing support
+TKT-0025,I have a question about a transaction. whenever possible.,Billing,Low,Billing support
+TKT-0115,The application has a technical problem. please prioritize this issue.,Technical,High,Technical support
+TKT-0211,My account access has been restricted. this is causing a major problem.,Account,High,Account support
+TKT-0149,I am experiencing a system error. I would like some information.,Technical,Low,Technical support
+TKT-0310,What is included in the basic plan. I would appreciate help soon.,Product,Medium,Product support
+TKT-0259,Which subscription plan should I choose. please prioritize this issue.,Product,High,Product support
+TKT-0133,I am having trouble loading the dashboard. whenever possible.,Technical,Low,Technical support
+TKT-0318,I have a question about product functionality. please assist me.,Product,Medium,Product support
+TKT-0235,My account credentials are not working. I need this resolved as soon as possible.,Account,High,Account support
+TKT-0313,Can you explain how this feature works. this is not urgent.,Product,Low,Product support
+TKT-0233,My account credentials are not working. there is no rush.,Account,Low,Account support
+TKT-0125,The website keeps freezing. at your convenience.,Technical,Low,Technical support
+TKT-0102,The application is running slowly. this is becoming inconvenient.,Technical,Medium,Technical support
+TKT-0110,The website stopped responding. this has been happening for a while.,Technical,Medium,Technical support
+TKT-0255,I need help understanding a product feature. this is affecting my work.,Product,High,Product support
+TKT-0159,The service is not functioning properly. I need immediate assistance.,Technical,High,Technical support
+TKT-0281,Is this feature available on my subscription. when you have time.,Product,Low,Product support
+TKT-0032,I need help understanding my bill. my account may be compromised.,Billing,Critical,Billing support
+TKT-0263,Can I use this feature with my current plan. I need immediate assistance.,Product,High,Product support
+TKT-0196,My login is not working. I believe someone has accessed my account.,Account,Critical,Account support
+TKT-0147,The website is taking too long to respond. this is causing a major problem.,Technical,High,Technical support
+TKT-0219,I want to modify my profile information. I urgently need help.,Account,High,Account support
+TKT-0094,I cannot upload a file. this has been happening for a while.,Technical,Medium,Technical support
+TKT-0138,A technical error is preventing me from continuing. please look into this.,Technical,Medium,Technical support
+TKT-0060,I need assistance with a recent transaction. this is an emergency.,Billing,Critical,Billing support
+TKT-0117,I cannot access a particular feature. there is no rush.,Technical,Low,Technical support
+TKT-0007,I was charged for my subscription. this is affecting my work.,Billing,High,Billing support
+TKT-0197,I need help with account access. when you have time.,Account,Low,Account support
+TKT-0031,I need help understanding my bill. I need immediate assistance.,Billing,High,Billing support
+TKT-0023,There is an issue with my monthly payment. this is causing a major problem.,Billing,High,Billing support
+TKT-0273,How can I use this feature. when you have time.,Product,Low,Product support
+TKT-0289,I want to compare the available plans. at your convenience.,Product,Low,Product support
+TKT-0057,I need assistance with a recent transaction. whenever possible.,Billing,Low,Billing support
+TKT-0166,I cannot log into my account. this is becoming inconvenient.,Account,Medium,Account support
+TKT-0119,I cannot access a particular feature. I cannot continue using the service.,Technical,High,Technical support
+TKT-0205,I cannot reset my password. when you have time.,Account,Low,Account support
+TKT-0082,The application is not working correctly. I need help with this issue.,Technical,Medium,Technical support
+TKT-0146,The website is taking too long to respond. this is becoming inconvenient.,Technical,Medium,Technical support
+TKT-0040,I need assistance with my recent invoice. I need immediate emergency assistance.,Billing,Critical,Billing support
+TKT-0220,I want to modify my profile information. the entire service is unavailable.,Account,Critical,Account support
+TKT-0148,The website is taking too long to respond. the entire service is unavailable.,Technical,Critical,Technical support
+TKT-0182,I cannot access my account. this is becoming inconvenient.,Account,Medium,Account support
+TKT-0316,Can you explain how this feature works. I believe someone has accessed my account.,Product,Critical,Product support
+TKT-0109,The website stopped responding. there is no rush.,Technical,Low,Technical support
+TKT-0270,What features are included in my plan. I would appreciate help soon.,Product,Medium,Product support
+TKT-0067,I need help changing my billing details. this is causing a major problem.,Billing,High,Billing support
+TKT-0198,I need help with account access. this is becoming inconvenient.,Account,Medium,Account support
+TKT-0019,I need information about my billing. I need this resolved as soon as possible.,Billing,High,Billing support
+TKT-0185,I need help resetting my password. I can wait.,Account,Low,Account support
+TKT-0114,The application has a technical problem. this is becoming inconvenient.,Technical,Medium,Technical support
+TKT-0020,I need information about my billing. my account may be compromised.,Billing,Critical,Billing support
+TKT-0183,I cannot access my account. please prioritize this issue.,Account,High,Account support
+TKT-0093,I cannot upload a file. I would like some information.,Technical,Low,Technical support
+TKT-0080,I need support with my subscription charges. my account may be compromised.,Billing,Critical,Billing support
+TKT-0221,I am having trouble signing into my account. when you have time.,Account,Low,Account support
+TKT-0153,The application is displaying an unexpected error. whenever possible.,Technical,Low,Technical support
+TKT-0073,There is a problem with my billing information. I would like some information.,Billing,Low,Billing support
+TKT-0097,The page is not loading. there is no rush.,Technical,Low,Technical support
+TKT-0016,I want to update my payment information. I believe someone has accessed my account.,Billing,Critical,Billing support
+TKT-0112,The website stopped responding. I believe someone has accessed my account.,Technical,Critical,Technical support
+TKT-0011,I need help with my invoice. please prioritize this issue.,Billing,High,Billing support
+TKT-0181,I cannot access my account. when you have time.,Account,Low,Account support
+TKT-0070,I want to review my recent payment. this is becoming inconvenient.,Billing,Medium,Billing support
+TKT-0098,The page is not loading. this is becoming inconvenient.,Technical,Medium,Technical support
+TKT-0302,Can I upgrade my current plan. I would like this resolved soon.,Product,Medium,Product support
+TKT-0069,I want to review my recent payment. at your convenience.,Billing,Low,Billing support
+TKT-0256,I need help understanding a product feature. the entire service is unavailable.,Product,Critical,Product support
+TKT-0038,I need assistance with my recent invoice. I would appreciate help soon.,Billing,Medium,Billing support
+TKT-0127,The website keeps freezing. I urgently need help.,Technical,High,Technical support
+TKT-0017,I need information about my billing. when you have time.,Billing,Low,Billing support
+TKT-0229,I want to delete my account. at your convenience.,Account,Low,Account support
+TKT-0068,I need help changing my billing details. there are unauthorized transactions.,Billing,Critical,Billing support
+TKT-0257,Which subscription plan should I choose. at your convenience.,Product,Low,Product support
+TKT-0248,I want information about the premium plan. the entire service is unavailable.,Product,Critical,Product support
+TKT-0126,The website keeps freezing. I would appreciate help soon.,Technical,Medium,Technical support
+TKT-0165,I cannot log into my account. there is no rush.,Account,Low,Account support
+TKT-0087,The website is showing an error. I need this resolved as soon as possible.,Technical,High,Technical support
+TKT-0305,I want more information about the product. at your convenience.,Product,Low,Product support
+TKT-0145,The website is taking too long to respond. there is no rush.,Technical,Low,Technical support
+TKT-0272,What features are included in my plan. my account may be compromised.,Product,Critical,Product support
+TKT-0141,The upload function is not working. this is not urgent.,Technical,Low,Technical support
+TKT-0234,My account credentials are not working. I would like this resolved soon.,Account,Medium,Account support
+TKT-0300,I need help choosing a plan. this is a critical issue.,Product,Critical,Product support
+TKT-0209,My account access has been restricted. at your convenience.,Account,Low,Account support
+TKT-0307,I want more information about the product. I urgently need help.,Product,High,Product support
+TKT-0207,I cannot reset my password. please prioritize this issue.,Account,High,Account support
+TKT-0130,The application stopped working. I need help with this issue.,Technical,Medium,Technical support
+TKT-0039,I need assistance with my recent invoice. I urgently need help.,Billing,High,Billing support
+TKT-0222,I am having trouble signing into my account. I would like this resolved soon.,Account,Medium,Account support
+TKT-0304,Can I upgrade my current plan. my account may be compromised.,Product,Critical,Product support
+TKT-0156,The application is displaying an unexpected error. my account may be compromised.,Technical,Critical,Technical support
+TKT-0113,The application has a technical problem. I would like some information.,Technical,Low,Technical support
+TKT-0268,I want to learn more about the product. the entire service is unavailable.,Product,Critical,Product support
+TKT-0118,I cannot access a particular feature. this is becoming inconvenient.,Technical,Medium,Technical support
+TKT-0297,I need help choosing a plan. there is no rush.,Product,Low,Product support
+TKT-0309,What is included in the basic plan. there is no rush.,Product,Low,Product support
+TKT-0291,I want to compare the available plans. I need this resolved as soon as possible.,Product,High,Product support
+TKT-0176,My account has been locked. I believe someone has accessed my account.,Account,Critical,Account support
+TKT-0200,I need help with account access. there are unauthorized transactions.,Account,Critical,Account support
+TKT-0155,The application is displaying an unexpected error. I cannot continue using the service.,Technical,High,Technical support
+TKT-0303,Can I upgrade my current plan. I need immediate assistance.,Product,High,Product support
+TKT-0003,I have a question about my subscription payment. I need this resolved as soon as possible.,Billing,High,Billing support
+TKT-0116,The application has a technical problem. the entire service is unavailable.,Technical,Critical,Technical support
+TKT-0164,I forgot my password. this is an emergency.,Account,Critical,Account support
+TKT-0224,I am having trouble signing into my account. I believe someone has accessed my account.,Account,Critical,Account support
+TKT-0121,The system is behaving unexpectedly. at your convenience.,Technical,Low,Technical support
+TKT-0240,I need assistance managing my account. this is an emergency.,Account,Critical,Account support
+TKT-0278,I need information about the available plans. this has been happening for a while.,Product,Medium,Product support
+TKT-0128,The website keeps freezing. there are unauthorized transactions.,Technical,Critical,Technical support
+TKT-0075,There is a problem with my billing information. this is affecting my work.,Billing,High,Billing support
+TKT-0030,I need help understanding my bill. I would like this resolved soon.,Billing,Medium,Billing support
+TKT-0084,The application is not working correctly. I need immediate emergency assistance.,Technical,Critical,Technical support
+TKT-0266,I want to learn more about the product. I need help with this issue.,Product,Medium,Product support
+TKT-0108,I am receiving an error message. this is a critical issue.,Technical,Critical,Technical support
+TKT-0174,My account has been locked. please look into this.,Account,Medium,Account support
+TKT-0180,I want to update my profile. I need immediate emergency assistance.,Account,Critical,Account support
+TKT-0134,I am having trouble loading the dashboard. this is becoming inconvenient.,Technical,Medium,Technical support
+TKT-0254,I need help understanding a product feature. please look into this.,Product,Medium,Product support
+TKT-0246,I want information about the premium plan. this is becoming inconvenient.,Product,Medium,Product support
+TKT-0296,How does the premium version work. I believe someone has accessed my account.,Product,Critical,Product support
+TKT-0066,I need help changing my billing details. I would appreciate help soon.,Billing,Medium,Billing support
+TKT-0226,I need help recovering my account. I would appreciate help soon.,Account,Medium,Account support
+TKT-0086,The website is showing an error. please assist me.,Technical,Medium,Technical support
+TKT-0243,How does this product feature work. I urgently need help.,Product,High,Product support
+TKT-0160,The service is not functioning properly. this is an emergency.,Technical,Critical,Technical support
+TKT-0013,I want to update my payment information. whenever possible.,Billing,Low,Billing support
+TKT-0036,My subscription payment needs to be checked. I need immediate emergency assistance.,Billing,Critical,Billing support
+TKT-0029,I need help understanding my bill. I can wait.,Billing,Low,Billing support
+TKT-0171,I need to change my email address. this is causing a major problem.,Account,High,Account support
+TKT-0143,The upload function is not working. I cannot continue using the service.,Technical,High,Technical support
+TKT-0267,I want to learn more about the product. I need immediate assistance.,Product,High,Product support
+TKT-0132,The application stopped working. my account may be compromised.,Technical,Critical,Technical support
+TKT-0210,My account access has been restricted. this is becoming inconvenient.,Account,Medium,Account support
+TKT-0052,I have a problem with my subscription charge. I believe someone has accessed my account.,Billing,Critical,Billing support
+TKT-0096,I cannot upload a file. there are unauthorized transactions.,Technical,Critical,Technical support
+TKT-0239,I need assistance managing my account. I urgently need help.,Account,High,Account support
+TKT-0179,I want to update my profile. this is causing a major problem.,Account,High,Account support
+TKT-0251,How can I upgrade my subscription. this is causing a major problem.,Product,High,Product support
+TKT-0042,I want to understand a charge on my account. this is becoming inconvenient.,Billing,Medium,Billing support
+TKT-0090,The application keeps crashing. please look into this.,Technical,Medium,Technical support
+TKT-0247,I want information about the premium plan. I need immediate assistance.,Product,High,Product support
+TKT-0137,A technical error is preventing me from continuing. I can wait.,Technical,Low,Technical support
+TKT-0027,I have a question about a transaction. please prioritize this issue.,Billing,High,Billing support
+TKT-0314,Can you explain how this feature works. I need help with this issue.,Product,Medium,Product support
+TKT-0142,The upload function is not working. this has been happening for a while.,Technical,Medium,Technical support
+TKT-0228,I need help recovering my account. I need immediate emergency assistance.,Account,Critical,Account support
+TKT-0001,I have a question about my subscription payment. I can wait.,Billing,Low,Billing support
+TKT-0288,Can you explain this product feature. this is an emergency.,Product,Critical,Product support
+TKT-0275,How can I use this feature. I need this resolved as soon as possible.,Product,High,Product support
+TKT-0292,I want to compare the available plans. the entire service is unavailable.,Product,Critical,Product support
+TKT-0101,The application is running slowly. I can wait.,Technical,Low,Technical support
+TKT-0193,My login is not working. I would like some information.,Account,Low,Account support
+TKT-0276,How can I use this feature. the entire service is unavailable.,Product,Critical,Product support
+TKT-0104,The application is running slowly. the entire service is unavailable.,Technical,Critical,Technical support
+TKT-0172,I need to change my email address. this is an emergency.,Account,Critical,Account support
+TKT-0099,The page is not loading. I cannot continue using the service.,Technical,High,Technical support
+TKT-0037,I need assistance with my recent invoice. at your convenience.,Billing,Low,Billing support
+TKT-0250,How can I upgrade my subscription. I need help with this issue.,Product,Medium,Product support
+TKT-0062,I have a question about my refund. please look into this.,Billing,Medium,Billing support
+TKT-0151,I am experiencing a system error. this is causing a major problem.,Technical,High,Technical support
+TKT-0048,I need help with my payment method. I need immediate emergency assistance.,Billing,Critical,Billing support
+TKT-0230,I want to delete my account. I need help with this issue.,Account,Medium,Account support
+TKT-0280,I need information about the available plans. my account may be compromised.,Product,Critical,Product support
+TKT-0012,I need help with my invoice. this is a critical issue.,Billing,Critical,Billing support
+TKT-0317,I have a question about product functionality. this is not urgent.,Product,Low,Product support
+TKT-0201,I want to update my personal information. whenever possible.,Account,Low,Account support
+TKT-0287,Can you explain this product feature. I need this resolved as soon as possible.,Product,High,Product support
+TKT-0028,I have a question about a transaction. this is a critical issue.,Billing,Critical,Billing support
+TKT-0249,How can I upgrade my subscription. there is no rush.,Product,Low,Product support
+TKT-0005,I was charged for my subscription. I would like some information.,Billing,Low,Billing support
+TKT-0123,The system is behaving unexpectedly. I need this resolved as soon as possible.,Technical,High,Technical support
+TKT-0033,My subscription payment needs to be checked. this is not urgent.,Billing,Low,Billing support
+TKT-0232,I want to delete my account. this is an emergency.,Account,Critical,Account support
+TKT-0163,I forgot my password. I urgently need help.,Account,High,Account support
+TKT-0238,I need assistance managing my account. please look into this.,Account,Medium,Account support
+TKT-0284,Is this feature available on my subscription. this is a critical issue.,Product,Critical,Product support
+TKT-0139,A technical error is preventing me from continuing. I need immediate assistance.,Technical,High,Technical support
+TKT-0063,I have a question about my refund. this is causing a major problem.,Billing,High,Billing support
+TKT-0216,I need assistance with my login. I need immediate emergency assistance.,Account,Critical,Account support
+TKT-0136,I am having trouble loading the dashboard. my account may be compromised.,Technical,Critical,Technical support
+TKT-0299,I need help choosing a plan. this is affecting my work.,Product,High,Product support
+TKT-0129,The application stopped working. this is not urgent.,Technical,Low,Technical support
+TKT-0311,What is included in the basic plan. I need this resolved as soon as possible.,Product,High,Product support
+TKT-0009,I need help with my invoice. I can wait.,Billing,Low,Billing support
+TKT-0071,I want to review my recent payment. this is causing a major problem.,Billing,High,Billing support
+TKT-0283,Is this feature available on my subscription. please prioritize this issue.,Product,High,Product support
+TKT-0065,I need help changing my billing details. this is not urgent.,Billing,Low,Billing support
+TKT-0045,I need help with my payment method. I would like some information.,Billing,Low,Billing support
+TKT-0015,I want to update my payment information. this is causing a major problem.,Billing,High,Billing support
+TKT-0157,The service is not functioning properly. there is no rush.,Technical,Low,Technical support
+TKT-0041,I want to understand a charge on my account. there is no rush.,Billing,Low,Billing support
+TKT-0306,I want more information about the product. please look into this.,Product,Medium,Product support
+TKT-0124,The system is behaving unexpectedly. my account may be compromised.,Technical,Critical,Technical support
+TKT-0295,How does the premium version work. please prioritize this issue.,Product,High,Product support
+TKT-0262,Can I use this feature with my current plan. I need help with this issue.,Product,Medium,Product support
+TKT-0217,I want to modify my profile information. there is no rush.,Account,Low,Account support
+TKT-0154,The application is displaying an unexpected error. please look into this.,Technical,Medium,Technical support
+TKT-0024,There is an issue with my monthly payment. this is an emergency.,Billing,Critical,Billing support
+TKT-0279,I need information about the available plans. this is causing a major problem.,Product,High,Product support
+TKT-0237,I need assistance managing my account. I can wait.,Account,Low,Account support
+TKT-0208,I cannot reset my password. there are unauthorized transactions.,Account,Critical,Account support
+TKT-0213,I need assistance with my login. there is no rush.,Account,Low,Account support
+TKT-0293,How does the premium version work. there is no rush.,Product,Low,Product support
+TKT-0252,How can I upgrade my subscription. I need immediate emergency assistance.,Product,Critical,Product support
+TKT-0312,What is included in the basic plan. this is a critical issue.,Product,Critical,Product support
+TKT-0202,I want to update my personal information. please assist me.,Account,Medium,Account support
+TKT-0162,I forgot my password. I would appreciate help soon.,Account,Medium,Account support
+TKT-0044,I want to understand a charge on my account. there are unauthorized transactions.,Billing,Critical,Billing support
+TKT-0218,I want to modify my profile information. I would like this resolved soon.,Account,Medium,Account support
+TKT-0191,I want to change my account details. I cannot continue using the service.,Account,High,Account support
+TKT-0260,Which subscription plan should I choose. my account may be compromised.,Product,Critical,Product support
+TKT-0106,I am receiving an error message. this has been happening for a while.,Technical,Medium,Technical support
+TKT-0054,My invoice contains an incorrect amount. I need help with this issue.,Billing,Medium,Billing support
+TKT-0002,I have a question about my subscription payment. I would appreciate help soon.,Billing,Medium,Billing support
+TKT-0050,I have a problem with my subscription charge. I would appreciate help soon.,Billing,Medium,Billing support
+TKT-0081,The application is not working correctly. at your convenience.,Technical,Low,Technical support
+TKT-0206,I cannot reset my password. please assist me.,Account,Medium,Account support
+TKT-0035,My subscription payment needs to be checked. I cannot continue using the service.,Billing,High,Billing support
+TKT-0264,Can I use this feature with my current plan. this is a critical issue.,Product,Critical,Product support
+TKT-0092,The application keeps crashing. I need immediate emergency assistance.,Technical,Critical,Technical support
+TKT-0053,My invoice contains an incorrect amount. when you have time.,Billing,Low,Billing support
+TKT-0265,I want to learn more about the product. I can wait.,Product,Low,Product support
+TKT-0242,How does this product feature work. I would like this resolved soon.,Product,Medium,Product support
+TKT-0014,I want to update my payment information. I would appreciate help soon.,Billing,Medium,Billing support
+TKT-0089,The application keeps crashing. I would like some information.,Technical,Low,Technical support
+TKT-0274,How can I use this feature. I need help with this issue.,Product,Medium,Product support
+TKT-0167,I cannot log into my account. this is affecting my work.,Account,High,Account support
+TKT-0315,Can you explain how this feature works. I need immediate assistance.,Product,High,Product support
+TKT-0135,I am having trouble loading the dashboard. I cannot continue using the service.,Technical,High,Technical support
+TKT-0308,I want more information about the product. I believe someone has accessed my account.,Product,Critical,Product support
+TKT-0244,How does this product feature work. my account may be compromised.,Product,Critical,Product support
+TKT-0055,My invoice contains an incorrect amount. I urgently need help.,Billing,High,Billing support
+TKT-0051,I have a problem with my subscription charge. I need this resolved as soon as possible.,Billing,High,Billing support
+TKT-0175,My account has been locked. this is causing a major problem.,Account,High,Account support
+TKT-0190,I want to change my account details. this is becoming inconvenient.,Account,Medium,Account support
+TKT-0319,I have a question about product functionality. please prioritize this issue.,Product,High,Product support
+TKT-0188,I need help resetting my password. there are unauthorized transactions.,Account,Critical,Account support
+TKT-0170,I need to change my email address. please look into this.,Account,Medium,Account support
+TKT-0059,I need assistance with a recent transaction. I urgently need help.,Billing,High,Billing support
+TKT-0049,I have a problem with my subscription charge. I would like some information.,Billing,Low,Billing support
+TKT-0236,My account credentials are not working. this is an emergency.,Account,Critical,Account support
+TKT-0253,I need help understanding a product feature. whenever possible.,Product,Low,Product support
+TKT-0022,There is an issue with my monthly payment. I would like this resolved soon.,Billing,Medium,Billing support
+TKT-0161,I forgot my password. at your convenience.,Account,Low,Account support
+TKT-0277,I need information about the available plans. whenever possible.,Product,Low,Product support
+TKT-0192,I want to change my account details. this is an emergency.,Account,Critical,Account support
+TKT-0294,How does the premium version work. I need help with this issue.,Product,Medium,Product support
+TKT-0258,Which subscription plan should I choose. this is becoming inconvenient.,Product,Medium,Product support
+TKT-0150,I am experiencing a system error. this is becoming inconvenient.,Technical,Medium,Technical support
+TKT-0131,The application stopped working. I need this resolved as soon as possible.,Technical,High,Technical support
+TKT-0152,I am experiencing a system error. I believe someone has accessed my account.,Technical,Critical,Technical support
+TKT-0100,The page is not loading. this is a critical issue.,Technical,Critical,Technical support
+TKT-0088,The website is showing an error. I believe someone has accessed my account.,Technical,Critical,Technical support
+TKT-0215,I need assistance with my login. I cannot continue using the service.,Account,High,Account support
+TKT-0122,The system is behaving unexpectedly. please assist me.,Technical,Medium,Technical support
+TKT-0320,I have a question about product functionality. this is an emergency.,Product,Critical,Product support
+TKT-0021,There is an issue with my monthly payment. there is no rush.,Billing,Low,Billing support
+TKT-0189,I want to change my account details. at your convenience.,Account,Low,Account support
+TKT-0072,I want to review my recent payment. I need immediate emergency assistance.,Billing,Critical,Billing support
+TKT-0107,I am receiving an error message. this is causing a major problem.,Technical,High,Technical support
+TKT-0271,What features are included in my plan. this is affecting my work.,Product,High,Product support
+TKT-0103,The application is running slowly. I need this resolved as soon as possible.,Technical,High,Technical support
+TKT-0321,Our production system is completely down and all users are unable to access the service.,Technical,Critical,Technical support
+TKT-0322,The production environment is experiencing a complete outage and customers cannot use the application.,Technical,Critical,Technical support
+TKT-0323,All users are unable to access the system because the production service is down.,Technical,Critical,Technical support
+TKT-0324,Our entire application is offline and this is affecting every customer.,Technical,Critical,Technical support
+TKT-0325,There is a complete production outage and immediate emergency action is required.,Technical,Critical,Technical support
+TKT-0326,The main service is completely unavailable for all users and needs immediate resolution.,Technical,Critical,Technical support
+TKT-0327,Our production server is down and customers cannot access any part of the application.,Technical,Critical,Technical support
+TKT-0328,The application is completely unavailable across production and all customers are affected.,Technical,Critical,Technical support
+TKT-0329,A major production outage has stopped the service for all users.,Technical,Critical,Technical support
+TKT-0330,The entire production system has failed and urgent emergency support is required.,Technical,Critical,Technical support
+TKT-0331,Customers are unable to access the application because the production system is completely down.,Technical,Critical,Technical support
+TKT-0332,The service is experiencing a complete outage and no users can access the platform.,Technical,Critical,Technical support
+TKT-0333,Our live production environment is down and business operations are completely blocked.,Technical,Critical,Technical support
+TKT-0334,The website and application are both completely unavailable to all customers.,Technical,Critical,Technical support
+TKT-0335,A critical production outage is preventing every user from accessing the service.,Technical,Critical,Technical support
+TKT-0336,The system has gone completely offline and requires immediate emergency intervention.,Technical,Critical,Technical support
+TKT-0337,Our production application is down for all customers and this is a critical outage.,Technical,Critical,Technical support
+TKT-0338,The platform is completely unavailable and no customer can access their account.,Technical,Critical,Technical support
+TKT-0339,All production services are down and the business cannot operate normally.,Technical,Critical,Technical support
+TKT-0340,The entire customer-facing system is down and requires immediate emergency resolution.,Technical,Critical,Technical support

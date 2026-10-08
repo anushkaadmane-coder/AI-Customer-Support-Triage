@@ -1,0 +1,17 @@
+{
+    "dataset_size": 340,
+    "training_samples": 272,
+    "testing_samples": 68,
+    "category": {
+        "accuracy": 98.53,
+        "precision": 98.62,
+        "recall": 98.53,
+        "f1_score": 98.53
+    },
+    "urgency": {
+        "accuracy": 92.65,
+        "precision": 93.47,
+        "recall": 92.65,
+        "f1_score": 92.54
+    }
+}
